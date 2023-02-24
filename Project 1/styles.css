@@ -1,0 +1,17 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+.bg{
+    background-image: url(train.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.container{
+    padding-top: 15%;
+    color: white;
+}
